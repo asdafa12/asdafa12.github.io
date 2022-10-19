@@ -38,32 +38,32 @@
         </div>
         <div class="pergunta">
             <label> 4.Aquele que apresentar estudos ambientais com informações incorretas estará sujeito a sanções:  </label><br>
-            <input type="radio" name="resposta3" value="r1"> Civis e administrativas, exceto as penais
-            <input type="radio" name="resposta3" value="r2"> Civis, administrativas e tributarias
-            <input type="radio" name="resposta3" value="r3"> Apenas civis
-            <input type="radio" name="resposta3" value="r4"> Civis, penais e administrativas
+            <input type="radio" name="resposta4" value="r1"> Civis e administrativas, exceto as penais
+            <input type="radio" name="resposta4" value="r2"> Civis, administrativas e tributarias
+            <input type="radio" name="resposta4" value="r3"> Apenas civis
+            <input type="radio" name="resposta4" value="r4"> Civis, penais e administrativas
         </div>
         <div class="pergunta">
             <label> 5.Qual é artigo da CF 88 dedicado exclusivamente ao assunto meio ambiente?  </label><br>
-            <input type="radio" name="resposta3" value="r1"> Art. 160 
-            <input type="radio" name="resposta3" value="r2"> Art. 5 
-            <input type="radio" name="resposta3" value="r3"> Art. 225
-            <input type="radio" name="resposta3" value="r4"> Art. 261
+            <input type="radio" name="resposta5" value="r1"> Art. 160 
+            <input type="radio" name="resposta5" value="r2"> Art. 5 
+            <input type="radio" name="resposta5" value="r3"> Art. 225
+            <input type="radio" name="resposta5" value="r4"> Art. 261
         </div>
         <div class="pergunta">
             <label> 6.O q é o SISNAMA?  </label><br>
-            <input type="radio" name="resposta3" value="r1"> Sistema Nacional de Meio Ambiente
-            <input type="radio" name="resposta3" value="r2"> Sistema Nacional de Águas e Meio Ambiente
-            <input type="radio" name="resposta3" value="r3"> Sistema Nacional de Saneamento e Meio Ambiente
-            <input type="radio" name="resposta3" value="r4"> Sistema Nacional de Ar, Águas e Meio Ambiente
+            <input type="radio" name="resposta6" value="r1"> Sistema Nacional de Meio Ambiente
+            <input type="radio" name="resposta6" value="r2"> Sistema Nacional de Águas e Meio Ambiente
+            <input type="radio" name="resposta6" value="r3"> Sistema Nacional de Saneamento e Meio Ambiente
+            <input type="radio" name="resposta6" value="r4"> Sistema Nacional de Ar, Águas e Meio Ambiente
            </div>
         <div class="pergunta">
             <label> 7.Quem é o responsável pela implementação da Política Nacional do Meio Ambiente? 
  </label><br>
-            <input type="radio" name="resposta3" value="r1"> Conselho Estadual de Meio Ambiente
-            <input type="radio" name="resposta3" value="r2"> Órgãos integrantes do SISNAMA
-            <input type="radio" name="resposta3" value="r3"> Secretarias Municipais de Meio Ambiente
-            <input type="radio" name="resposta3" value="r4"> Ministério do Meio Ambiente
+            <input type="radio" name="resposta7" value="r1"> Conselho Estadual de Meio Ambiente
+            <input type="radio" name="resposta7" value="r2"> Órgãos integrantes do SISNAMA
+            <input type="radio" name="resposta7" value="r3"> Secretarias Municipais de Meio Ambiente
+            <input type="radio" name="resposta7" value="r4"> Ministério do Meio Ambiente
         </div>
         <input class="teste" type="submit" value="Enviar">
     </form>
