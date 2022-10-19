@@ -102,9 +102,9 @@
     # changes the color of the text
     if($cont == 0){
         echo "<h1 style='color: red;'>". $cont . "/" . count($respostasCertas) ."</h1>";
-    }else if($cont >= 1 && $cont <= 2){
+    }else if($cont >= 1 && $cont <= 6){
         echo "<h1 style='color: orange;'>" . $cont . "/" . count($respostasCertas) ."</h1>";
-    }else if($cont == 3){
+    }else if($cont == 7){
         echo "<h1 style='color: green;'>". $cont . "/" . count($respostasCertas) ."</h1>";
     }
     ?>
