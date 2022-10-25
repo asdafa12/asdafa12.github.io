@@ -58,8 +58,7 @@
             <input type="radio" name="resposta6" value="r4"> Sistema Nacional de Ar, Águas e Meio Ambiente
            </div>
         <div class="pergunta">
-            <label> 7.Quem é o responsável pela implementação da Política Nacional do Meio Ambiente? 
- </label><br>
+            <label> 7.Quem é o responsável pela implementação da Política Nacional do Meio Ambiente? </label><br>
             <input type="radio" name="resposta7" value="r1"> Conselho Estadual de Meio Ambiente
             <input type="radio" name="resposta7" value="r2"> Órgãos integrantes do SISNAMA
             <input type="radio" name="resposta7" value="r3"> Secretarias Municipais de Meio Ambiente
@@ -69,7 +68,6 @@
     </form>
 
 <?php
-    #print_r($_POST);
 
     $respostasCertas = array("r5","r1","r2","r4","r3","r1","r2");
 
@@ -83,7 +81,7 @@
                 $cont++;
 
             } else {
-                echo "<p style='color: red;'>Reposta " . $i+1 . " errada</p>";
+                echo "<p style='color: red;'>Reposta " . ($i+1) . " errada</p>";
             }
         }
     } else {
