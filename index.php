@@ -81,6 +81,9 @@
         for($i = 0; $i < count($respostasCertas); $i++){
             if($respostasCertas[$i] == $_POST["resposta".($i+1)]){
                 $cont++;
+
+            } else {
+                echo "<p style='color: red;'>Reposta " . $i+1 . " errada</p>";
             }
         }
     } else {
