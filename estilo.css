@@ -14,3 +14,11 @@
     border: 1px solid #ccc;
     box-shadow: grey;
 }
+
+.errada {
+    background-color: rgb(255, 139, 139);
+}
+
+.certa {
+    background-color: rgb(139, 255, 139);
+}
